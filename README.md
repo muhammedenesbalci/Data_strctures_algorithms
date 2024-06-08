@@ -1,0 +1,1 @@
+- normlade diziler sabit olur ama ben dynamic array yapacağım yani alanını genişletebileceğimiz cinsten
